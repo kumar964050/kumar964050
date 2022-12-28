@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kumar964050
 - 👀 I’m interested in ...new challenge
-- 🌱 I’m currently learning ... Full Stacks & ML & AI
+- 🌱 I’m Full Stack Developer -MERN 
 - 📫 How to reach me ... kumar964050@gmail.com
