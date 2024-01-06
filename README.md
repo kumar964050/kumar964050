@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, java, Spring boot**
+- 🌱 I’m currently learning **java, Spring boot, React native**
 
 - 👨‍💻 All of my projects are available at [narendrakumarpala.com](narendrakumarpala.com)
 
-- 💬 Ask me about **React, Node, React native,Python**
+- 💬 Ask me about **React, Node,Python**
 
 - 📫 How to reach me **kumar964050@gmail.com**
 
