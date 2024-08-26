@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **kumar964050@gmail.com**
 
-- 📄 Know about my experiences [narendrakumarpala.com](narendrakumarpala.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
