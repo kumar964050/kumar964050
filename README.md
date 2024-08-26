@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **java, Spring boot**
 
-- 👨‍💻 All of my projects are available at [narendrakumarpala.com](narendrakumarpala.com)
+- 👨‍💻 All of my projects are available at ""
 
 - 💬 Ask me about **React, Node, Python**
 
