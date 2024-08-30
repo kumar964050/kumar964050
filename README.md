@@ -12,6 +12,8 @@
 - 💬 Ask me about **React, Node, Python**
 
 - 📫 How to reach me **kumar964050@gmail.com**
+- 
+- 📫 How to reach me **[kumar964050@gmail.com](https://narendra-portfolio0.netlify.app/)**
 
 
 <h3 align="left">Connect with me:</h3>
