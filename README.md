@@ -12,7 +12,6 @@
 - 💬 Ask me about **React, Node, Python**
 
 - 📫 How to reach me **kumar964050@gmail.com**
-- 
 - 📫 Portfolio Web Site : **[Portfolio](https://narendra-portfolio0.netlify.app/)**
 
 
