@@ -22,7 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
----
 # 💻 Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -95,6 +94,15 @@
 ![Spring Boot](https://img.shields.io/badge/spring--boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+
+### 🔐 Authentication & Authorization
+
+- **OAuth**: Integrated social login (Google) for user authentication.
+
+---
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar964050&show_icons=true&locale=en&layout=compact" alt="kumar964050" /></p>
