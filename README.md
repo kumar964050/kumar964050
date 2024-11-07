@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar964050&label=Profile%20views&color=0e75b6&style=flat" alt="kumar964050" /> </p>
 
-- 🔭 I’m currently working on InstaShare(instagram clone)  
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **java, Spring boot**
+- 🌱 I’m currently learning **Jest & React Testing Library**
 
 - 👨‍💻 All of my projects are available at ""
 
