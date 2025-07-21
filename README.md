@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar964050" alt="kumar964050" /></a> </p>
 
-- 🔭 I’m currently working on **Carpooling Application**
+- 🔭 I’m currently working on **Loan Management System**
 
-- 🌱 I’m currently learning **Jest & React-Testing-Library**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://narendra-portfolio0.netlify.app/](https://narendra-portfolio0.netlify.app/)
 
