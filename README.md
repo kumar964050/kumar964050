@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://narendra-portfolio0.netlify.app/](https://narendra-portfolio0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://narendra-portfolio-dev.netlify.app/](https://narendra-portfolio-dev.netlify.app/)
 
 - 💬 Ask me about **MERN(React,Node,Express, MongoDB)**
 
