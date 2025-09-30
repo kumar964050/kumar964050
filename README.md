@@ -36,6 +36,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23A91E50.svg?style=for-the-badge&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-%23A86454.svg?style=for-the-badge&logoColor=white)
 
 ### 🎨 Frontend & UI (Web + Mobile)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
