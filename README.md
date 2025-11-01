@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🚀 Full-Stack Developer with **2+ years of experience** in designing and building modern web and mobile applications  
+- 🚀 Full-Stack Developer with **3+ years of experience** in designing and building modern web and mobile applications  
 - 💡 Skilled in **MERN Stack, Java Spring Boot, React Native, and Cloud Deployment**  
 - 🌱 Expanding expertise in **DevOps, CI/CD pipelines, and containerized applications**  
 - 🔭 Current project: **InterviewPro** – Real-time 1:1 mock interview platform (Web + Mobile)  
