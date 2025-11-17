@@ -114,9 +114,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar964050&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar964050&show_icons=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar964050" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narendrapala2210&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrapala2210&show_icons=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrapala2210" alt="GitHub Streak" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumar964050&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narendrapala2210&theme=react-dark)
