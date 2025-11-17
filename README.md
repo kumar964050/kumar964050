@@ -9,7 +9,7 @@
 - 💡 Skilled in **MERN Stack, Java Spring Boot, React Native, and Cloud Deployment**  
 - 🌱 Expanding expertise in **DevOps, CI/CD pipelines, and containerized applications**  
 - 🔭 Current project: **InterviewPro** – Real-time 1:1 mock interview platform (Web + Mobile)  
-- 📫 Contact: **kumar964050@gmail.com**  
+- 📫 Contact: **narendrapala2210@gmail.com**  
 - 👨‍💻 Portfolio: [**narendra-portfolio-dev.netlify.app**](https://narendra-portfolio-dev.netlify.app/)  
 
 ---
